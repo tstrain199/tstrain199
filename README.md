@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tstrain199
 - 👀 I’m interested in DevOps, FinTech, DataScience
-- 🌱 I’m currently learning Python for Trading, Azure
+- 🌱 I’m currently learning Python for DataScience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
